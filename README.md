@@ -9,9 +9,9 @@
 
 ### Installing
 
-just pull whole source code as follows
+just clone whole source code as follows
 ```
-git pull https://github.com/q1580414/coding-assesment-product
+git clone https://github.com/q1580414/coding-assesment-product
 ```
 
 ### Running the tests
